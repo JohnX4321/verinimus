@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  appID: 'cf907916c5144a7183d296fed586abe0',
+  appID: '',
   config: {
     apiKey: '',
     authDomain: '',
