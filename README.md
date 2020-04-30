@@ -1,4 +1,11 @@
-# Minimus
+#Verinimus
+
+A weather app based on tutorial by freecodecamp.org
+
+#ScreenShots
+![Screenshot1](./SS1.png)
+
+![Screenshot2](./SS2.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
